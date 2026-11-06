@@ -1,0 +1,12 @@
+JOURNEY RECORD
+
+Service 1A23 Glasgow Queen Street to Edinburgh Waverley
+Date: Monday 2 November 2026
+
+Scheduled departure 07:15
+Actual departure 07:21
+
+Scheduled arrival 08:15
+Actual arrival 08:52
+
+Reason for delay: a broken-down train ahead blocked the line near Falkirk.
